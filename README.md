@@ -1,1 +1,1 @@
-# First-Exercise-With-Node
+Simple exercise with node using the express framework. It consists mainly in helping understand better how to use the methods GET, POST, PUT, PATCH and DELETE in a project. I used insomnia to simulate the front end.
